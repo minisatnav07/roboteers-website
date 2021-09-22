@@ -19,7 +19,7 @@
 body {
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
-  background: url(https://media.discordapp.net/attachments/885602576849076317/885605184041005116/73170990_2703213156385063_8823167503904538624_n.png) no-repeat center center fixed; 
+  background: url(../img/roboteersbackground.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -61,24 +61,8 @@ body {
 .btn-facebook { background: #3b5998;}
 .btn-google { background: #dd4b39;}
 .btn-discord { background: #7289da;}
+.btn-twitter { background: #00acee;}
 .btn-facebook:hover { background: #2f4679;}
 .btn-google:hover { background: #b03b2d;}
 .btn-discord:hover { background: #52639c;}
-
-.announcement-top-bar {
-  position: -webkit-sticky;
-  position: -moz-sticky;
-  position: -ms-sticky;
-  position: -o-sticky;
-  position: sticky;
-  top: 0;
-}
-
-.announcement-top-bar p {
-  margin: 0;
-}
-
-.announcement-top-bar.alert-dismissible .close {
-  top: 50%;
-  transform: translateY(-55%);
-}
+.btn-twitter:hover { background: #0089bd;}
