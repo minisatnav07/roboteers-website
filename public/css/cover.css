@@ -66,3 +66,9 @@ body {
 .btn-google:hover { background: #b03b2d;}
 .btn-discord:hover { background: #52639c;}
 .btn-twitter:hover { background: #0089bd;}
+
+@media only screen and (max-width: 768px) {
+  h3 {
+    padding-bottom: 1rem;
+  }
+}
