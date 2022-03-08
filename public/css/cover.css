@@ -62,10 +62,12 @@ body {
 .btn-google { background: #dd4b39;}
 .btn-discord { background: #7289da;}
 .btn-twitter { background: #00acee;}
+.btn-instagram { background: #E1306C;}
 .btn-facebook:hover { background: #2f4679;}
 .btn-google:hover { background: #b03b2d;}
 .btn-discord:hover { background: #52639c;}
 .btn-twitter:hover { background: #0089bd;}
+.btn-instagram:hover { background: #C13584;}
 
 @media only screen and (max-width: 768px) {
   h3 {
