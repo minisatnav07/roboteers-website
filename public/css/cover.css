@@ -82,4 +82,8 @@ body {
 .transparent-grey-box {
     background-color: rgba(0, 0, 0, 0.7); 
     border-radius: 5%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
