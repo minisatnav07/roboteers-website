@@ -73,4 +73,13 @@ body {
   h3 {
     padding-bottom: 1rem;
   }
+
+  .top-title {
+    display: none !important; 
+}
+}
+
+.transparent-grey-box {
+    background-color: rgba(0, 0, 0, 0.7); 
+    border-radius: 5%;
 }
